@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [SCSS](https://sass-lang.com)
 ## 💻 Projeto
 
-O LetmeAsk é um sistema de ranqueamento de perguntas desenvolvido durante a NextLevelWeek #6 da @Rocketseat
+O LetmeAsk é um sistema de ranqueamento de perguntas com páginas para administradores da sala e participantes desenvolvido durante a NextLevelWeek #6 da @Rocketseat
 
 ## 🔖 Deploy
 
