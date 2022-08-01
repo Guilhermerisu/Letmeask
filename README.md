@@ -19,10 +19,13 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [ReactJS](https://pt-br.reactjs.org/)
-- [Typescript](https://www.typescriptlang.org/)
-- [Firebase](https://firebase.google.com)
-- [SCSS](https://sass-lang.com)
+<div>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
+</div>
+
 ## 💻 Projeto
 
 O LetmeAsk é um sistema de ranqueamento de perguntas com páginas para administradores da sala e participantes desenvolvido durante a NextLevelWeek #6 da @Rocketseat
